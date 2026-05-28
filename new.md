@@ -1,6 +1,3 @@
-
-
-
 # THÔNG SỐ KỸ THUẬT & TÀI LIỆU YÊU CẦU SẢN PHẨM (PRD)
 ## Dự án: Personal AI Reminder Agent (Phiên bản MVP cho Windows)
 
