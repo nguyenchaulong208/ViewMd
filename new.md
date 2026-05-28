@@ -1,6 +1,6 @@
-Dưới đây là toàn bộ nội dung tài liệu PRD được định dạng Markdown chuẩn chỉnh, viết bằng tiếng Việt để bạn dễ dàng làm việc với các AI Coding Agent. Bạn chỉ cần sao chép toàn bộ nội dung trong ô mã nguồn bên dưới:
 
-```markdown
+
+
 # THÔNG SỐ KỸ THUẬT & TÀI LIỆU YÊU CẦU SẢN PHẨM (PRD)
 ## Dự án: Personal AI Reminder Agent (Phiên bản MVP cho Windows)
 
@@ -127,6 +127,3 @@ Agent tự động quét dữ liệu file Excel trong 2 trường hợp:
 * **Bước 3:** Viết module `core/file_watcher.py` bằng watchdog để bắt sự kiện lưu file Excel và kết nối luồng tự động quét.
 * **Bước 4:** Xây dựng giao diện PyQt6 trong `ui/main_window.py`, thiết lập cơ chế đa luồng (`QThread`) để kết nối mượt mà giao diện với bộ não xử lý phía dưới. Hoàn thiện file chạy chính `main.py`.
 
-```
-
-```
