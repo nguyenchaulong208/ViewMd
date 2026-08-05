@@ -1,0 +1,100 @@
+# Công Cụ Tổng Hợp Hóa Đơn XML (Đang phát triển)
+
+## Giới Thiệu
+
+**Công Cụ Tổng Hợp Hóa Đơn XML** là một ứng dụng web miễn phí giúp bạn đọc và tổng hợp dữ liệu từ nhiều file XML hóa đơn điện tử cùng lúc. Thay vì phải mở từng file pdf và ghi chép thủ công, công cụ này sẽ tự động trích xuất thông tin và xuất ra file Excel tổng hợp chỉ trong vài giây.
+
+> ⚠️ **Lưu ý quan trọng**: Tất cả dữ liệu được xử lý hoàn toàn trên trình duyệt của bạn, không hề được tải lên bất kỳ máy chủ nào. Điều này đảm bảo tính bảo mật và riêng tư tuyệt đối cho dữ liệu hóa đơn của bạn.
+
+---
+
+## Tính Năng Nổi Bật
+
+### 📂 Hỗ trợ nhiều file cùng lúc
+- Kéo thả hoặc chọn nhiều file XML hóa đơn một lần
+- Hỗ trợ tất cả các file XML hóa đơn điện tử theo chuẩn
+
+### 🔍 Trích xuất thông tin tự động
+Công cụ sẽ tự động lấy các thông tin quan trọng từ hóa đơn:
+- Số hóa đơn, ngày hóa đơn, ký hiệu
+- Thông tin người bán (tên, mã số thuế, địa chỉ)
+- Biển số xe, hình thức thanh toán
+- Các khoản tiền: tổng tiền trước thuế, tiền thuế, tổng tiền thanh toán
+- Chi tiết từng dòng hàng: tên hàng, số lượng, đơn giá, thành tiền, thuế suất
+
+### 📊 Xuất Excel tổng hợp
+- Tự động tạo file Excel với đầy đủ các cột thông tin
+- Định dạng cột thông minh, dễ đọc
+- Tên file có kèm ngày tháng để dễ quản lý
+
+### 👁️ Xem trước dữ liệu
+- Hiển thị bảng dữ liệu ngay trên trình duyệt
+- Cho phép kiểm tra nhanh trước khi xuất file
+
+### 📋 Theo dõi lỗi
+- Hiển thị chi tiết các file bị lỗi và nguyên nhân
+- Giúp bạn dễ dàng xác định và sửa lỗi
+
+---
+
+## Hướng Dẫn Sử Dụng
+
+### Bước 1: Tải file XML lên
+Có 2 cách để thêm file XML:
+
+**Cách 1 - Kéo thả:** Kéo các file XML từ thư mục trên máy tính và thả vào khu vực có chữ "Kéo & thả file XML vào đây".
+
+**Cách 2 - Chọn file:** Nhấp vào khu vực tải file, sau đó chọn một hoặc nhiều file XML từ máy tính của bạn.
+
+> 💡 **Mẹo**: Bạn có thể chọn nhiều file cùng lúc bằng cách giữ phím Ctrl (Windows) hoặc Cmd (Mac) khi chọn.
+
+### Bước 2: Xử lý dữ liệu
+Sau khi tải file lên, nhấn nút **"Xử lý & Xem kết quả"**. Công cụ sẽ:
+1. Đọc và phân tích từng file XML
+2. Trích xuất thông tin từ hóa đơn
+3. Hiển thị thống kê và bảng dữ liệu
+
+### Bước 3: Kiểm tra và xuất Excel
+- Xem bảng dữ liệu để kiểm tra thông tin đã được trích xuất chính xác chưa
+- Nhấn **"Xuất file Excel"** để tải về file tổng hợp
+
+### Bước 4: Xử lý lỗi (nếu có)
+- Nếu có file bị lỗi, nhấn **"Xem log lỗi"** để xem chi tiết
+- File bị lỗi sẽ không được đưa vào bảng tổng hợp
+- Kiểm tra lại file XML đó và thử tải lại
+
+---
+
+## Mẹo và Lưu Ý
+
+### ✅ Nên làm
+- Tải lên các file XML hóa đơn điện tử chuẩn
+- Kiểm tra dữ liệu trong bảng xem trước trước khi xuất Excel
+- Đặt tên file XML rõ ràng để dễ quản lý
+
+### ❌ Không nên làm
+- Không tải lên các file không phải XML
+- Không đóng trình duyệt khi đang xử lý
+- Không tải quá nhiều file cùng lúc (khuyến nghị dưới 100 file)
+
+### 🛡️ Bảo mật
+- **Không có dữ liệu nào được gửi lên máy chủ**
+- Tất cả xử lý đều diễn ra trên máy tính của bạn
+- Bạn có thể yên tâm sử dụng với các hóa đơn nhạy cảm
+
+---
+
+## Hỗ Trợ và Phản Hồi
+
+Nếu bạn gặp bất kỳ vấn đề nào khi sử dụng công cụ, vui lòng:
+- Kiểm tra lại file XML có đúng định dạng không
+- Thử tải lại file
+- Liên hệ bộ phận hỗ trợ để được giúp đỡ
+
+---
+
+## Kết Luận
+
+Công Cụ Tổng Hợp Hóa Đơn XML giúp bạn tiết kiệm thời gian và công sức trong việc xử lý nhiều hóa đơn điện tử. Với giao diện đơn giản, trực quan và hoàn toàn miễn phí, đây là giải pháp lý tưởng cho các kế toán viên, nhân viên hành chính và chủ doanh nghiệp.
+
+**Hãy bắt đầu sử dụng ngay hôm nay để trải nghiệm sự tiện lợi!**
