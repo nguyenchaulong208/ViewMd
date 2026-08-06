@@ -1,5 +1,3 @@
-Dưới đây là bộ lệnh đầy đủ của Aider, chia theo nhóm chức năng:
-
 ## Quản lý file trong ngữ cảnh
 
 | Lệnh | Chức năng |
