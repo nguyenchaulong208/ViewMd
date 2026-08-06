@@ -73,4 +73,4 @@ Kiểm tra kết quả:
 ```
 Nếu hài lòng → aider tự commit; nếu không → `/undo`.
 
-Với dự án của bạn (nhiều file, model local context ngắn), nên ưu tiên `/add` đúng 1-3 file cần sửa, dùng `/read-only` cho file cấu hình/schema chỉ cần tham khảo, tránh nhồi cả folder vào context.
+Với dự án nhiều file, model local context ngắn, nên ưu tiên `/add` đúng 1-3 file cần sửa, dùng `/read-only` cho file cấu hình/schema chỉ cần tham khảo, tránh nhồi cả folder vào context.
